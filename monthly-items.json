@@ -1,5 +1,20 @@
 [
   {
+    "month": "March 2026",
+    "items": [
+      {
+        "title": "Personalize Visuals in Power BI",
+        "description": "A hidden gem that many Power BI users may have overlooked! This report-level feature allows end users to customize any visual in a report — swap chart types, change fields, and adjust formatting — then save it as a personal bookmark for their own custom view. Works in both Apps and regular reports, empowering consumers to tailor their analytics experience without modifying the original report.",
+        "url": "https://learn.microsoft.com/en-us/power-bi/explore-reports/end-user-personalize-visuals"
+      },
+      {
+        "title": "Built-in Pipeline Failure Alerts in Fabric Data Factory",
+        "description": "A long-awaited quality-of-life feature that the community is celebrating! Fabric Data Factory pipelines now support built-in failure notifications that automatically email you when a pipeline fails — complete with error details right in the message body. No more building custom email activities or meta orchestration pipelines just to catch failures. It even bubbles up child and grandchild pipeline failures to the parent, and a Microsoft employee confirmed it works for Copy jobs too.",
+        "url": "https://www.reddit.com/r/MicrosoftFabric/comments/1rovwnc/builtin_pipeline_failure_alert_now_available/"
+      }
+    ]
+  },
+  {
     "month": "February 2026",
     "items": [
       {
