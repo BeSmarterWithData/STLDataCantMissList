@@ -1,5 +1,15 @@
 [
   {
+    "month": "April 2026",
+    "items": [
+      {
+        "title": "FabCon Atlanta 2026: Every Announcement",
+        "description": "A comprehensive reference covering 30+ announcements from the combined FabCon + SQLCon event in Atlanta. Microsoft is positioning Fabric as the operating system for data, context, and action. Major highlights include Fabric IQ, OneLake Security, Runtime 2.0, Database Hub, Direct Lake on OneLake GA, Fabric Data Agents dropping to F2+, Snowflake interop GA, new mirroring sources (Oracle, SAP, SharePoint, Dremio), and much more — all with previous-state context and official citations.",
+        "url": "https://www.psistla.com/articles/fabcon-atlanta-2026-announcements"
+      }
+    ]
+  },
+  {
     "month": "March 2026",
     "items": [
       {
