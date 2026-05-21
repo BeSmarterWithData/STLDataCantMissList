@@ -1,5 +1,20 @@
 [
   {
+    "month": "May 2026",
+    "items": [
+      {
+        "title": "Power BI May 2026 Feature Summary: GA Bonanza",
+        "description": "One of the biggest Power BI monthly updates in recent memory, with a massive wave of features moving to General Availability. Long-requested items finally land: custom column widths for tables and matrices (set exact pixel widths per column!), Set as Landing Page (right-click any page tab to make it the default), Custom Totals with None and Average options, Visual Calculations, Input Slicer numeric support, Default Format String Locale, Azure Maps formatting pane, Matrix auto-expand for embedded scenarios, and more. If you've been waiting on any of these previews, they're all GA now.",
+        "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-May-2026-Feature-Summary/ba-p/5182174"
+      },
+      {
+        "title": "Data Tools Arena",
+        "description": "A community-ranked directory of open-source tools, tutorials, and resources for the Microsoft data platform ecosystem. Tools are scored hourly based on real community engagement — detail views and outbound clicks — so the rankings reflect what practitioners actually use. Covers Microsoft Fabric, Power BI, Azure Databricks, and data engineering pipelines. Built and curated by Andrzej Strzała, with all submissions reviewed before listing. A great way to discover tools you didn't know existed.",
+        "url": "https://www.datatoolsarena.com/"
+      }
+    ]
+  },
+  {
     "month": "April 2026",
     "items": [
       {
