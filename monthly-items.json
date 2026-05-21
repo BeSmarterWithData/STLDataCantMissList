@@ -11,6 +11,11 @@
         "title": "Data Tools Arena",
         "description": "A community-ranked directory of open-source tools, tutorials, and resources for the Microsoft data platform ecosystem. Tools are scored hourly based on real community engagement — detail views and outbound clicks — so the rankings reflect what practitioners actually use. Covers Microsoft Fabric, Power BI, Azure Databricks, and data engineering pipelines. Built and curated by Andrzej Strzała, with all submissions reviewed before listing. A great way to discover tools you didn't know existed.",
         "url": "https://www.datatoolsarena.com/"
+      },
+      {
+        "title": "Prep Your Data for AI: AI Data Schemas",
+        "description": "A zero-downside feature every semantic model author should enable. AI Data Schemas let you define a focused subset of your model's fields that Copilot and Fabric Data Agents use when answering questions — reducing ambiguity and dramatically improving response accuracy. It has no effect on reporting or end-user visuals; it only limits what the AI sees so it picks the right columns without guessing. Select the most relevant fields, exclude the noise, and Copilot delivers clearer, more accurate answers. Available in both Power BI Desktop and the Service.",
+        "url": "https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-prepare-data-ai-data-schema"
       }
     ]
   },
