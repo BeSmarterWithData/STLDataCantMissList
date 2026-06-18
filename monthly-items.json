@@ -1,5 +1,15 @@
 [
   {
+    "month": "June 2026",
+    "items": [
+      {
+        "title": "Org Apps with Audiences Now Generally Available",
+        "description": "One of the most requested capabilities in Power BI and Fabric is finally GA: audiences in org apps. You can now build a single org app with one shared navigation structure, then control exactly what each audience sees within it — executives, managers, and frontline teams get tailored content and experiences from the same governed app. Combine it with multiple org apps per workspace for the best of both worlds. Flexible navigation options let you show or hide the All tab, use audiences as primary navigation, or hide audience tabs entirely. Plus easier audience assignment right from the share experience, modern access management (no lingering semantic model access), full theming, deployment pipelines, Git integration, and CRUD APIs. Workspace apps remain fully supported with no deprecation date.",
+        "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326"
+      }
+    ]
+  },
+  {
     "month": "May 2026",
     "items": [
       {
