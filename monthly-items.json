@@ -11,6 +11,16 @@
         "title": "SQLBI: User-Aware Calculated Columns in Power BI",
         "description": "A new 'Expression Context' property lets one calculated column show different values based on who's viewing - so a single model can deliver multilingual reports (French speakers see French, Spanish speakers see Spanish) and custom security, with no duplicate models or translation tables. Not materialized, so no size cost.",
         "url": "https://www.sqlbi.com/articles/introducing-user-aware-calculated-columns-in-power-bi/"
+      },
+      {
+        "title": "Fabric Data Agent Model Upgrades: 20% More Accurate",
+        "description": "Model upgrades announced at Build make Fabric Data Agents about 20% more accurate at answering questions over your data - applied automatically, no work required on your end.",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-the-agentic-analytics-stack-Fabric-Analytics-at-Build/ba-p/5191634#toc-hId--564836231"
+      },
+      {
+        "title": "Fabric Data Agent API Now Public",
+        "description": "The Fabric data agent API is now public, so you can build, configure, and update data agents programmatically instead of only through the UI - version and scale them as code across your CI/CD workflows.",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-data-agent-API-is-now-public-Build-Fabric-data-agents/ba-p/5230588"
       }
     ]
   },
