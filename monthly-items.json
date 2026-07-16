@@ -1,10 +1,25 @@
 [
   {
+    "month": "July 2026",
+    "items": [
+      {
+        "title": "Power BI Desktop Bridge (Preview)",
+        "description": "Lets AI agents work directly with Power BI Desktop - read report state, reload PBIP/PBIR files after edits, and capture screenshots to self-validate. The result: reports that took hours to build and refine can be authored and polished by agents in minutes. Enabled by default via the powerbi-desktop CLI.",
+        "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
+      },
+      {
+        "title": "SQLBI: User-Aware Calculated Columns in Power BI",
+        "description": "A new 'Expression Context' property lets one calculated column show different values based on who's viewing - so a single model can deliver multilingual reports (French speakers see French, Spanish speakers see Spanish) and custom security, with no duplicate models or translation tables. Not materialized, so no size cost.",
+        "url": "https://www.sqlbi.com/articles/introducing-user-aware-calculated-columns-in-power-bi/"
+      }
+    ]
+  },
+  {
     "month": "June 2026",
     "items": [
       {
         "title": "Org Apps with Audiences Now Generally Available",
-        "description": "One of the most requested capabilities in Power BI and Fabric is finally GA: audiences in org apps. You can now build a single org app with one shared navigation structure, then control exactly what each audience sees within it — executives, managers, and frontline teams get tailored content and experiences from the same governed app. Combine it with multiple org apps per workspace for the best of both worlds. Flexible navigation options let you show or hide the All tab, use audiences as primary navigation, or hide audience tabs entirely. Plus easier audience assignment right from the share experience, modern access management (no lingering semantic model access), full theming, deployment pipelines, Git integration, and CRUD APIs. Workspace apps remain fully supported with no deprecation date.",
+        "description": "One of the most requested capabilities in Power BI and Fabric is finally GA: audiences in org apps. You can now build a single org app with one shared navigation structure, then control exactly what each audience sees within it - executives, managers, and frontline teams get tailored content and experiences from the same governed app. Combine it with multiple org apps per workspace for the best of both worlds. Flexible navigation options let you show or hide the All tab, use audiences as primary navigation, or hide audience tabs entirely. Plus easier audience assignment right from the share experience, modern access management (no lingering semantic model access), full theming, deployment pipelines, Git integration, and CRUD APIs. Workspace apps remain fully supported with no deprecation date.",
         "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326"
       }
     ]
@@ -19,12 +34,12 @@
       },
       {
         "title": "Data Tools Arena",
-        "description": "A community-ranked directory of open-source tools, tutorials, and resources for the Microsoft data platform ecosystem. Tools are scored hourly based on real community engagement — detail views and outbound clicks — so the rankings reflect what practitioners actually use. Covers Microsoft Fabric, Power BI, Azure Databricks, and data engineering pipelines. Built and curated by Andrzej Strzała, with all submissions reviewed before listing. A great way to discover tools you didn't know existed.",
+        "description": "A community-ranked directory of open-source tools, tutorials, and resources for the Microsoft data platform ecosystem. Tools are scored hourly based on real community engagement - detail views and outbound clicks - so the rankings reflect what practitioners actually use. Covers Microsoft Fabric, Power BI, Azure Databricks, and data engineering pipelines. Built and curated by Andrzej Strzała, with all submissions reviewed before listing. A great way to discover tools you didn't know existed.",
         "url": "https://www.datatoolsarena.com/"
       },
       {
         "title": "Prep Your Data for AI: AI Data Schemas",
-        "description": "A zero-downside feature every semantic model author should enable. AI Data Schemas let you define a focused subset of your model's fields that Copilot and Fabric Data Agents use when answering questions — reducing ambiguity and dramatically improving response accuracy. It has no effect on reporting or end-user visuals; it only limits what the AI sees so it picks the right columns without guessing. Select the most relevant fields, exclude the noise, and Copilot delivers clearer, more accurate answers. Available in both Power BI Desktop and the Service.",
+        "description": "A zero-downside feature every semantic model author should enable. AI Data Schemas let you define a focused subset of your model's fields that Copilot and Fabric Data Agents use when answering questions - reducing ambiguity and dramatically improving response accuracy. It has no effect on reporting or end-user visuals; it only limits what the AI sees so it picks the right columns without guessing. Select the most relevant fields, exclude the noise, and Copilot delivers clearer, more accurate answers. Available in both Power BI Desktop and the Service.",
         "url": "https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-prepare-data-ai-data-schema"
       }
     ]
@@ -34,12 +49,12 @@
     "items": [
       {
         "title": "FabCon Atlanta 2026: Every Announcement",
-        "description": "A comprehensive reference covering 30+ announcements from the combined FabCon + SQLCon event in Atlanta. Major highlights include Fabric IQ, OneLake Security, Runtime 2.0, Database Hub, Direct Lake on OneLake GA, Fabric Data Agents dropping to F2+, Snowflake interop GA, new mirroring sources (Oracle, SAP, SharePoint, Dremio), and much more — all with previous-state context and official citations.",
+        "description": "A comprehensive reference covering 30+ announcements from the combined FabCon + SQLCon event in Atlanta. Major highlights include Fabric IQ, OneLake Security, Runtime 2.0, Database Hub, Direct Lake on OneLake GA, Fabric Data Agents dropping to F2+, Snowflake interop GA, new mirroring sources (Oracle, SAP, SharePoint, Dremio), and much more - all with previous-state context and official citations.",
         "url": "https://www.psistla.com/articles/fabcon-atlanta-2026-announcements"
       },
       {
         "title": "Power BI Agentic Development Marketplace",
-        "description": "A plugin marketplace that teaches AI coding agents like GitHub Copilot and Claude Code to work with Power BI and Fabric. Includes plugins for Tabular Editor, PBI Desktop, PBIP/TMDL authoring, report design, semantic models, and Fabric admin — with skills, subagents, and hooks that activate automatically based on task context. A rapidly growing community project with 480+ stars and weekly releases.",
+        "description": "A plugin marketplace that teaches AI coding agents like GitHub Copilot and Claude Code to work with Power BI and Fabric. Includes plugins for Tabular Editor, PBI Desktop, PBIP/TMDL authoring, report design, semantic models, and Fabric admin - with skills, subagents, and hooks that activate automatically based on task context. A rapidly growing community project with 480+ stars and weekly releases.",
         "url": "https://github.com/data-goblin/power-bi-agentic-development"
       }
     ]
@@ -49,12 +64,12 @@
     "items": [
       {
         "title": "Personalize Visuals in Power BI",
-        "description": "A hidden gem that many Power BI users may have overlooked! This report-level feature allows end users to customize any visual in a report — swap chart types, change fields, and adjust formatting — then save it as a personal bookmark for their own custom view. Works in both Apps and regular reports, empowering consumers to tailor their analytics experience without modifying the original report.",
+        "description": "A hidden gem that many Power BI users may have overlooked! This report-level feature allows end users to customize any visual in a report - swap chart types, change fields, and adjust formatting - then save it as a personal bookmark for their own custom view. Works in both Apps and regular reports, empowering consumers to tailor their analytics experience without modifying the original report.",
         "url": "https://learn.microsoft.com/en-us/power-bi/explore-reports/end-user-personalize-visuals"
       },
       {
         "title": "Built-in Pipeline Failure Alerts in Fabric Data Factory",
-        "description": "A long-awaited quality-of-life feature that the community is celebrating! Fabric Data Factory pipelines now support built-in failure notifications that automatically email you when a pipeline fails — complete with error details right in the message body. No more building custom email activities or meta orchestration pipelines just to catch failures. It even bubbles up child and grandchild pipeline failures to the parent, and a Microsoft employee confirmed it works for Copy jobs too.",
+        "description": "A long-awaited quality-of-life feature that the community is celebrating! Fabric Data Factory pipelines now support built-in failure notifications that automatically email you when a pipeline fails - complete with error details right in the message body. No more building custom email activities or meta orchestration pipelines just to catch failures. It even bubbles up child and grandchild pipeline failures to the parent, and a Microsoft employee confirmed it works for Copy jobs too.",
         "url": "https://www.reddit.com/r/MicrosoftFabric/comments/1rovwnc/builtin_pipeline_failure_alert_now_available/"
       }
     ]
