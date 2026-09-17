@@ -1,5 +1,45 @@
 [
   {
+    "month": "September 2026",
+    "items": [
+      {
+        "title": "Matrix: Expand and collapse for column headers (Generally Available)",
+        "description": "Matrix columns now get the same expand-and-collapse interaction as rows. Add more than one field to the Columns field well and use the +/- header icons to reveal detail or collapse groups - for example, expand a year into quarters without expanding every year. Customize the icons' color and size under Column headers > +/- icons in the format pane.",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-august-2026-feature-summary/5348434#community-5348434-mcetoc_1k0fv07o1_14"
+      },
+      {
+        "title": "More control over Semantic Model refresh in Power BI Service",
+        "description": "Choose Refresh schema and data, Sync schema only, or Refresh data only in the Service's model view, either for the whole semantic model or an individual table. Load the latest data without pulling new source columns into your model, or sync a schema change without refreshing all the data. Especially useful when a Direct Lake source changes before you're ready to expose those changes in reports.",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-august-2026-feature-summary/5348434#community-5348434-mcetoc_1k0fv07o1_22"
+      },
+      {
+        "title": "Fabric App Viewer Permissions Updates",
+        "description": "Build access on the model is no longer required for viewing. Users with Read permission can now access Fabric Apps without needing broader model permissions.",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-august-2026-feature-summary/5348434#community-5348434-mcetoc_1k0fv07o1_7"
+      },
+      {
+        "title": "Report page tab life navigation improvements (Generally Available)",
+        "description": "Reordering a report with dozens of pages is less tedious. Drag a page tab toward the edge of the tab bar and it now keeps scrolling, so you can move a page from the end to the beginning in one drag. The navigation arrows also move through tabs more precisely so you don't miss pages. A small but useful quality-of-life improvement from July's Power BI update.",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-july-2026-feature-summary/5303533#community-5303533-toc-hId--1195889368"
+      },
+      {
+        "title": "Change Git branch with at least the contributor role (Preview)",
+        "description": "Developers can switch a workspace's connected Git branch without being made workspace Admins. Once an admin enables the setting under Git integration, users with at least the Contributor role can change branches, removing an admin hand-off from everyday development and the branch-out-to-existing-workspace workflow. Keep developers at the permissions they need instead of granting Admin just to switch branches.",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-july-2026-feature-summary/5325823#community-5325823-toc-hId-628579680"
+      },
+      {
+        "title": "Fabric Data Agents: Better Visuals, Smarter DAX, GPT-5.1, and SQL Schema Descriptions",
+        "description": "Four upgrades worth revisiting together: Fabric Visuals bring interactive charts with improved formatting, legends, tooltips, and axis scaling; advanced DAX generation uses a specialized sub-agent to inspect results, refine queries, and resolve model values for more accurate filters; the orchestrator now runs on GPT-5.1 for question interpretation, planning, and final answers; and SQL schema descriptions let authors explain table and column meanings. Advanced DAX and SQL schema descriptions require the Preview runtime; GPT-5.1 applies to both Standard and Preview. Rerun saved evaluations because the orchestrator upgrade can change responses to existing prompts.",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-august-2026-feature-summary/5325824#community-5325824-mcetoc_1k0t9rh2l_12"
+      },
+      {
+        "title": "Copilot Summary and Copilot Narrative can now read visuals hidden behind bookmarks",
+        "description": "Using bookmarks as tabs no longer means Copilot misses part of your report. Copilot Summary can now consider visuals hidden by default that a display-only report bookmark reveals through a bookmark button or navigator. Authors can also select those visuals for Copilot Narrative. Copilot reads them without changing the bookmark state, while row-level and object-level security remain enforced.",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-august-2026-feature-summary/5348434#community-5348434-mcetoc_1k0fv07o1_8"
+      }
+    ]
+  },
+  {
     "month": "July 2026",
     "items": [
       {
